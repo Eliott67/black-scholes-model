@@ -33,8 +33,8 @@ The repository includes a comprehensive theoretical report and a Python implemen
 ├── report/
 │   └── Black_Scholes_Report.pdf  # Full mathematical report (LaTeX)
 ├── src/
-│   ├── simulation.py             # Geometric Brownian Motion paths
-│   ├── pricing.py                # Closed-form and Monte-Carlo pricers
-│   └── greeks.py                 # Sensitivity analysis
+│   ├── brownian_simulation.py    # Standard Geometric Brownian Motion paths
+│   ├── volatility_simulation.py  # Analysis of Time-Dependent Volatility
+│   └── rate_simulation.py        # Analysis of Interest Rate impact
 ├── requirements.txt
 └── README.md
