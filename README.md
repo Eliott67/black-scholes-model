@@ -38,3 +38,11 @@ The repository includes a comprehensive theoretical report and a Python implemen
 │   └── rate_simulation.py        # Analysis of Interest Rate impact
 ├── requirements.txt
 └── README.md
+---
+
+## 👥 Authors
+* **Eliott Oster** * **Bernard Tao**
+* **Périne Gabarret**
+
+---
+*Developed as part of the GMM Department curriculum at INSA Toulouse.*
