@@ -24,7 +24,8 @@ The repository includes a comprehensive theoretical report and a Python implemen
 ## Visualizations
 
 ### Brownian Motion Simulation
-*(Place here a screenshot of your Brownian Motion paths from the report)*
+<img width="1000" height="600" alt="MBS" src="https://github.com/user-attachments/assets/bd3f7fee-2f31-4114-bdb7-6433306e3605" />
+
 
 ## Project Structure
 
